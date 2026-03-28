@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# VS Code
+.vscode/
+
+# Tests
+.pytest_cache/
+
+# Documents folder (uploads locales, no van a GitHub)
+documents/
